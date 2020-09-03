@@ -1,5 +1,21 @@
+In this project, Conwey's game of life is implemented
+The application game_of_live.ipynb (see version 120x100) has the following very simple user interface:
 
-
+* Enter - start the game
+* Esc   - escape from the game 
+* Space - stop and clear (generations counter is reset (in red))
+* p     - pause the gam
+* f     - read the game initial position (opens the file dialog)
+* w     - save the  game initial position to the file 
+* click - create the cell in the current location
+* right click - remove the cell in the current location 
 
 ![](images/two_stream_of_gliders_05.png) ![](images/four_streams_of_gliders_05.png)         
-![](images/all_king_gliders_05.png) ![](images/two_stream_of_gliders_2_05.png)    
+![](images/all_king_gliders_05.png) ![](images/two_stream_of_gliders_2_05.png)   
+
+### Video examples
+
+[Gliders in crossed flight](https://www.youtube.com/watch?v=7PJ4_8lKbTQ)
+[Four streams of gliders](https://www.youtube.com/watch?v=G1je5jT7cEc) 
+[Grosper gliders](https://www.youtube.com/watch?v=ZG0LpOL26QI)
+
