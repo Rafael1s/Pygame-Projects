@@ -5,7 +5,7 @@ has the following interface:
 * Enter - start the game
 * Esc   - escape from the game 
 * Space - stop and clear (generations counter is reset (in red))
-* p     - pause the gam
+* p     - pause the game
 * f     - read the game initial position (opens the file dialog)
 * w     - save the  game initial position to the file 
 * click - create the cell in the current location
@@ -19,4 +19,8 @@ has the following interface:
 [Gliders in crossed flight](https://www.youtube.com/watch?v=7PJ4_8lKbTQ)   
 [Four streams of gliders](https://www.youtube.com/watch?v=G1je5jT7cEc)    
 [Grosper gliders](https://www.youtube.com/watch?v=ZG0LpOL26QI)     
+
+### Credit
+
+The code is based on Chris Careaga's code https://github.com/CCareaga/Pygame-Examples/tree/master/Game%20Of%20Life
 
