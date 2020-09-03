@@ -1,7 +1,14 @@
+This is the Snake that needs to eat an apple on each cell, and there are 196 such cells.    
+The apple is shown in red, the head of the snake in green and her tail in blue.    
+In this video, the Artificial Snake reaches its maximum possible length = 196.   
+In the lower left window, for each step, we see the path that the Snake must go to reach the goal:    
+the apple or the tail of the Snake. The tail is selected only if there is no safe path to the apple.   
+Algorithm corrects its decision on each step.    
+
 The BFS (Breadth First Search) solver makes the snake to eat the apple along the shortest path     
 if it thinks that particular path will be safe for the snake. Otherwise, it makes the snake    
 to move until it finds a safe path, in particular, the solver looks for a path to the snake's tail  
-and tries to change the path to the apple each time.   
+and tries to change the path to the apple each step.   
 
 
 ![](images/len_34_t_075.png) ![](images/len_65_t_075.png)    
