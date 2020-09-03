@@ -1,5 +1,6 @@
-In this project, Conwey's game of life is implemented
-The application game_of_live.ipynb (see version 120x100) has the following very simple user interface:
+In this project, Conwey's game of life is implemented.    
+The fronend of the notebook **game_of_live.ipynb** (see version 120x100)    
+has the following interface:   
 
 * Enter - start the game
 * Esc   - escape from the game 
@@ -15,7 +16,7 @@ The application game_of_live.ipynb (see version 120x100) has the following very 
 
 ### Video examples
 
-[Gliders in crossed flight](https://www.youtube.com/watch?v=7PJ4_8lKbTQ)
-[Four streams of gliders](https://www.youtube.com/watch?v=G1je5jT7cEc) 
-[Grosper gliders](https://www.youtube.com/watch?v=ZG0LpOL26QI)
+[Gliders in crossed flight](https://www.youtube.com/watch?v=7PJ4_8lKbTQ)   
+[Four streams of gliders](https://www.youtube.com/watch?v=G1je5jT7cEc)    
+[Grosper gliders](https://www.youtube.com/watch?v=ZG0LpOL26QI)     
 
