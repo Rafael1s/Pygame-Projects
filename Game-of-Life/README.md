@@ -20,6 +20,12 @@ has the following interface:
 [Four streams of gliders](https://www.youtube.com/watch?v=G1je5jT7cEc)    
 [Grosper gliders](https://www.youtube.com/watch?v=ZG0LpOL26QI)     
 
+### References
+
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+[Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
+[epic conway's game of life](https://www.youtube.com/watch?v=C2vgICfQawE)
+
 ### Credit
 
 The code is based on Chris Careaga's code https://github.com/CCareaga/Pygame-Examples/tree/master/Game%20Of%20Life
