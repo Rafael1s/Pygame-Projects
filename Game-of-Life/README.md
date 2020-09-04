@@ -22,9 +22,9 @@ has the following interface:
 
 ### References
 
-[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-[Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton)
-[epic conway's game of life](https://www.youtube.com/watch?v=C2vgICfQawE)
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)   
+[Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton)    
+[epic conway's game of life](https://www.youtube.com/watch?v=C2vgICfQawE)    
 
 ### Credit
 
