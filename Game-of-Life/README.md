@@ -26,6 +26,7 @@ has the following interface:
 [Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton)    
 [epic conway's game of life](https://www.youtube.com/watch?v=C2vgICfQawE)    
 [Game of Life News](http://pentadecathlon.com/lifeNews/index.php)
+[Program for Conway’s Game Of Life](https://www.geeksforgeeks.org/program-for-conways-game-of-life/)
 
 ### Credit
 
