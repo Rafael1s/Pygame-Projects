@@ -26,6 +26,7 @@ For the Snake trained with Deep Reinforcement Learning algorithm DQN see [here](
 [Automated Snake Game Solvers via AI Search Algorithms](https://www.semanticscholar.org/paper/Automated-Snake-Game-Solvers-via-AI-Search-Kong-Mayans/ac6b04c7f7a9a3b8f58d7bc3c2ced39fd2c4ac98)    
 [Solving the Classic Game of Snake with AI](https://towardsdatascience.com/slitherin-solving-the-classic-game-of-snake-with-ai-part-1-domain-specific-solvers-d1f5a5ccd635)   
 [Hamiltonian Cycle: Simple Definition and Example](https://www.statisticshowto.com/hamiltonian-cycle/)
+[Euler and Hamiltonian Paths and Circuits](https://www.youtube.com/watch?v=AwsMTEl79wI)
 
 ### Video
 See video [Artificial snake on the way](https://www.youtube.com/watch?v=-jNfUrVniNg&t=2s) on youtube.
