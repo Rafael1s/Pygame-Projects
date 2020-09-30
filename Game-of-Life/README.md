@@ -1,4 +1,12 @@
 In this project, Conwey's game of life is implemented.   
+The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells,   
+each of which is in one of two possible states, live or dead. Every cell interacts with its eight neighbours,   
+which are the cells that are horizontally, vertically, or diagonally adjacent. 
+
+* Any live cell with two or three live neighbours survives.
+* Any dead cell with three live neighbours becomes a live cell.
+* All other live cells die in the next generation.
+
 In this, for every p greater than or equal to 14, it is possible to construct a glider gun in which     
 the gliders are emitted with period p. [Bill Gosper](https://en.wikipedia.org/wiki/Bill_Gosper) discovered the first glider gun in 1970, earning prize from Conway.    
 
