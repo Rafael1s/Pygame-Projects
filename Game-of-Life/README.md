@@ -29,7 +29,7 @@ has the following interface:
 
 [Two streams of gliders in a crossed flight](https://www.youtube.com/watch?v=7PJ4_8lKbTQ)      
 [Four streams of gliders](https://www.youtube.com/watch?v=G1je5jT7cEc)    
-[Grosper gliders](https://www.youtube.com/watch?v=ZG0LpOL26QI)     
+[Gosper gliders](https://www.youtube.com/watch?v=ZG0LpOL26QI)     
 
 ### References
 
