@@ -1,5 +1,8 @@
-In this project, Conwey's game of life is implemented.    
-The fronend of the notebook **game_of_live.ipynb** (see version 120x100)    
+In this project, Conwey's game of life is implemented.   
+In this, for every p greater than or equal to 14, it is possible to construct a glider gun in which     
+the gliders are emitted with period p. [Bill Gosper](https://en.wikipedia.org/wiki/Bill_Gosper) discovered the first glider gun in 1970, earning prize from Conway.    
+
+The frontend of the notebook **game_of_live.ipynb** (see version 120x100)    
 has the following interface:   
 
 * Enter - start the game
